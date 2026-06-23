@@ -2,7 +2,8 @@
 
 ## Sobre
 
-Site profissional para divulgar o trabalho da psicóloga Lucia Tomita
+Site profissional para divulgar o trabalho da psicóloga Lucia Tomita.
+Acesse o resultado final em: [luciatomita.com.br](https://luciatomita.com.br/)
 
 ## Ferramentas utilizadas
 
